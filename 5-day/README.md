@@ -1,0 +1,1 @@
+# Adicionar imagens de filmes a partir da URL
