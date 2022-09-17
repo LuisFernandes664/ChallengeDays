@@ -1,5 +1,4 @@
 
-
 function adicionarFilme() {
     let elementHTML = document.getElementById("filme").value;
 
@@ -10,7 +9,6 @@ function adicionarFilme() {
     }
     document.getElementById("filme").value = ""
 }
-
 
 function listaFilmes(filme) {
     console.log(filme)
